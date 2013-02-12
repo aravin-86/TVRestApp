@@ -8,6 +8,8 @@
 
 <b>Project package type:</b> WAR <br/>
 
+<b>JRE used:</b> Java SE-1.6 <br/>
+
 Problem Statement
 ----------------------
 This task involves building a REST web service API. <br/>
