@@ -24,11 +24,12 @@ Your task is to build a REST web service API to view and manage TV programmes da
 You may add other properties you think are relevant. You many use XML or JSON content types.<br/>
 The following must be supported by the API:-<br/>
 • Adding new programmes<br/>
-•  Updating/Deleting programmes<br/>
-•	Retrieving programmes by id.<br/>
-•	Retrieving programmes by category.<br/>
-•	Retrieving programmes by availability.<br/>
+• Updating/Deleting programmes<br/>
+• Retrieving programmes by id.<br/>
+• Retrieving programmes by category.<br/>
+• Retrieving programmes by availability.<br/>
 
 
-Assumptions: "Id" attribute of programme data is considered unique for each programme.
-              
+Assumptions: "Id" attribute of programme data is considered unique for each programme.<br/>
+
+<b>Note:</b> Have currently used single HashMap for storing data. If retrieval operation needs to be optimized further, we can go for multiple HashMaps.
