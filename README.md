@@ -1,6 +1,6 @@
-----------------
-| BBCTVRESTApp |
-----------------
+-----------------------
+| BBC TV RESTful Service |
+-----------------------
 
 <b>Project Nature/Type:</b> Maven web app <br/>
 
