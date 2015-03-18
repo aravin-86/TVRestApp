@@ -1,4 +1,6 @@
-<b>Project Name:</b> BBCTVRESTApp <br/>
+----------------
+| BBCTVRESTApp |
+----------------
 
 <b>Project Nature/Type:</b> Maven web app <br/>
 
