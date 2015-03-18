@@ -12,9 +12,9 @@
 
 <b>JRE used:</b> Java SE-1.6 <br/>
 
-Application(REST Service)
---------------------------
-REST web service API to view and manage TV programmes data. 
+Description
+------------
+RESTful web service API to view and manage TV programmes data. 
 
 The data might look something like this:-<br/>
 { “id”:”12”, “title”:“The Apprentice”, “description”:“Series in which candidates compete to go into business with multi-millionaire tycoon Lord Sugar”, “category”:”entertainment”, “is_available”:true}<br/>
